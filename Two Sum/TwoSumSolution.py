@@ -2,8 +2,6 @@
 
 class Solution:
     def twoSum(nums, target):
-        
-
         #initialize a hash map to store values
         lookup = {}
 
@@ -16,7 +14,7 @@ class Solution:
 
             #Use the current nums[i] and constant target to determine the second value needed i.e (9-2 = 7)
             lookup[target - nums[i]] = i
-            
+
         #Here to make sure we are returning something    
         return(0, len(nums)-1)
 
