@@ -11,4 +11,4 @@ A list of all the questions I've practiced so far may be seen here. The time com
 
 | Question Name | Time Complexity | Language | Main Idea |
 | ------ | ------ | ------ | ------ |
-| Two Sum| `O(n)` | Python | Use a hash table to store and compare values of within an array. This leads to faster time complexity than using a double for loop.
+| Two Sum| `O(n)` | Python | Use a hash table to store and compare values of an array. This leads to faster time complexity than using a double for loop.
