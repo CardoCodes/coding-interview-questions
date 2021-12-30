@@ -8,7 +8,7 @@ class Node:
         self.next = next
 """
 
-from typing import Collection
+from typing import Collection, Optional
 
 
 class Solution:
