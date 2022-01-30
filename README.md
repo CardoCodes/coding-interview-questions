@@ -16,3 +16,4 @@ A list of all the questions I've practiced so far may be seen here. The time com
 | Merge Intervals | Medium| `O(n log n)` | Arrays | Python | Store the values of a 2d array in a single array and compare values, then store values needed in a new array.
 | Populating Next Right Pointers Each Node | Medium | `O(n)` | Nodes | Python | Breadth first search using a queue to store values, assign node values to eachother using curr.left or curr.right.
 | Fib Memoization | Easy | `O(n)` | Binary Search Tree & HashMaps | Python | We use a hashmap to store and recall values that we already computed.
+| Plus One | Easy | `O(n)` | Arrays | Python | use a string to convert an array on ints into an integer.
