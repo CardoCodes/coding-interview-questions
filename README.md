@@ -17,4 +17,4 @@ A list of all the questions I've practiced so far may be seen here. The time com
 | Populating Next Right Pointers Each Node | Medium | `O(n)` | Nodes | Python | Breadth first search using a queue to store values, assign node values to eachother using curr.left or curr.right.
 | Fib Memoization | Easy | `O(n)` | Binary Search Tree & HashMaps | Python | We use a hashmap to store and recall values that we already computed.
 | Plus One | Easy | `O(n)` | Arrays | Python | Use a string to convert an array on ints into an integer.
-| Binary Tree Cameras | Hard | `O(n)` | DFS | Python | Use dfs bottom up approach (postorder traversal) to determine weather the node should be a camera or monitored
+| Binary Tree Cameras | Hard | `O(n)` | DFS | Python | Use dfs bottom up approach (postorder traversal) to determine if the node should be a camera or monitored
