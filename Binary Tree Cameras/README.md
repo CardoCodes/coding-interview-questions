@@ -7,3 +7,10 @@ The trick here is to use a bottom up approach similar to [postorder traversal](h
 1. Placing a camera on a leaf
 2. Placeing a camera on the parent node of that leaf
 
+With the added bonys of its parent node bieng monitored too we can check to see which remaining unmonitored nodes are in a similar situation. (require a camera to be placed on itself or on its parent)
+
+We repeat the process by treating them like 'new' nodes
+
+0 = unmonitored
+1 = camera
+2 = monitored
