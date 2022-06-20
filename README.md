@@ -19,3 +19,4 @@ A list of all the questions I've practiced so far may be seen here. The time com
 | Plus One | Easy | `O(n)` | Arrays | Python | Use a string to convert an array on ints into an integer.
 | Binary Tree Cameras | Hard | `O(n)` | DFS | Python | Use dfs bottom up approach (postorder traversal) to determine if the node should be a camera or monitored.
 | Search Suggested Item | Medium | `O(n)` | Dict | Python | Use dictionaries to compare lists and create new array with comparison outcome |
+| Short Encoding of Words | Medium | `(On)` | DFS | Python | Create a trie structure with insert then use dfs to take length of words with no children and then add them up |
