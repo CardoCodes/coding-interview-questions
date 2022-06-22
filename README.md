@@ -20,3 +20,4 @@ A list of all the questions I've practiced so far may be seen here. The time com
 | Binary Tree Cameras | Hard | `O(n)` | DFS | Python | Use dfs bottom up approach (postorder traversal) to determine if the node should be a camera or monitored.
 | Search Suggested Item | Medium | `O(n)` | Dict | Python | Use dictionaries to compare lists and create new array with comparison outcome |
 | Short Encoding of Words | Medium | `(On)` | DFS | Python | Create a trie structure with insert then use dfs to take length of words with no children and then add them up |
+| Furthest Building | Medium | `O(nlogn)` | Priority queue & Greedy | Python | use greedy method implementing a priority queue to trace where you can use bricks and ladders | 
