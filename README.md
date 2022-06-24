@@ -22,3 +22,4 @@ A list of all the questions I've practiced so far may be seen here. The time com
 | Short Encoding of Words | Medium | `(On)` | DFS | Python | Create a trie structure with insert then use dfs to take length of words with no children and then add them up |
 | Furthest Building | Medium | `O(nlogn)` | Priority queue & Greedy | Python | use greedy method implementing a priority queue to trace where you can use bricks and ladders | 
 | Kth Largest Element | Medium | `(Ologn)` | Arrays | Python | sort aray and then return k element of the array |
+| Course Schedule 3 | Hard | `O(nlogn)` | Heap | Python | Keep courses that work inside heap, if the current course is better fit then we swap them from heap |
