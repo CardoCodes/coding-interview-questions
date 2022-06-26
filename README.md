@@ -24,3 +24,4 @@ A list of all the questions I've practiced so far may be seen here. The time com
 | Kth Largest Element | Medium | `(Ologn)` | Arrays | Python | sort aray and then return k element of the array |
 | Course Schedule 3 | Hard | `O(nlogn)` | Heap | Python | Keep courses that work inside heap, if the current course is better fit then we swap them from heap |
 | Construct Target Array With Multiple Sums | Hard | `O(n)` | Heap | Python | Use a heap to store new sums, if the num is less than the target then return false |  
+| Maximum Points You Can Obtain | Medium | `O(n)`| Array | Python | Use a sliding two pointer system to calculate what distribution of left and right would be the best |
