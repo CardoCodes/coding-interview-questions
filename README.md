@@ -27,3 +27,4 @@ A list of all the questions I've practiced so far may be seen here. The time com
 | Maximum Points You Can Obtain | Medium | `O(n)`| Array | Python | Use a sliding two pointer system to calculate what distribution of left and right would be the best |
 | Minimum Deletions to Make Char Freq Unique | Medium | `O(n)` | Array, Greedy | Python | count and sort frequencies of each char, then delete those that are the same frequency
 | Queue Reconstruction by Height | Medium | `O(nlog)` | Array, Greedy | Python | Use the .sort function and lamda key to sort by decreasing height & within the same height group sort by increasing order of k, then insert into answer array |
+| Find Pivot Index | Easy | `O(n)` | Array, Prefix Sum | Python | Use total sum of array and prefix sum to calculate the left and right side sums of the array pivot index |
