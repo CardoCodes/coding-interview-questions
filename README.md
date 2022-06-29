@@ -26,3 +26,4 @@ A list of all the questions I've practiced so far may be seen here. The time com
 | Construct Target Array With Multiple Sums | Hard | `O(n)` | Heap | Python | Use a heap to store new sums, if the num is less than the target then return false |  
 | Maximum Points You Can Obtain | Medium | `O(n)`| Array | Python | Use a sliding two pointer system to calculate what distribution of left and right would be the best |
 | Minimum Deletions to Make Char Freq Unique | Medium | `O(n)` | Array, Greedy | Python | count and sort frequencies of each char, then delete those that are the same frequency
+| Queue Reconstruction by Height | Medium | `O(nlog)` | Array, Greedy | Python | Use the .sort function and lamda key to sort by decreasing height & within the same height group sort by increasing order of k, then insert into answer array |
