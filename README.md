@@ -28,3 +28,4 @@ A list of all the questions I've practiced so far may be seen here. The time com
 | Minimum Deletions to Make Char Freq Unique | Medium | `O(n)` | Array, Greedy | Python | count and sort frequencies of each char, then delete those that are the same frequency
 | Queue Reconstruction by Height | Medium | `O(nlog)` | Array, Greedy | Python | Use the .sort function and lamda key to sort by decreasing height & within the same height group sort by increasing order of k, then insert into answer array |
 | Find Pivot Index | Easy | `O(n)` | Array, Prefix Sum | Python | Use total sum of array and prefix sum to calculate the left and right side sums of the array pivot index |
+| Min Moves 2 | Medium | `O(n)` | Array, Absolute Value | Python | Use the midpoint of a sorted array as the targer, then use the absolute value of i - target to find the amout of moves needed |
