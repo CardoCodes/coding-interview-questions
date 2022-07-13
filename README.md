@@ -33,3 +33,4 @@ A list of all the questions I've practiced so far may be seen here. The time com
 | Max Area | Medium | `O(nlogn)` | Array, Greedy | Python | Sort horizontal and vertical cuts then iterate through them and keep track of max diff |
 | Interleaving String | Medium | `O(n * m)` | DP | Python | Build dp matrix to calculate solution |
 | Matchsticks to Square | Medium | `O(n)` | DP & DFS | Python |  Build a dictionary for DP and find all possible ways to arrange matchsticks |
+| Level Order Traversal | Easy | `O(n)` | Recursion  | Python |  Recurseive pre order traversal call dfs on right and left nodes |
