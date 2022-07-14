@@ -34,3 +34,4 @@ A list of all the questions I've practiced so far may be seen here. The time com
 | Interleaving String | Medium | `O(n * m)` | DP | Python | Build dp matrix to calculate solution |
 | Matchsticks to Square | Medium | `O(n)` | DP & DFS | Python |  Build a dictionary for DP and find all possible ways to arrange matchsticks |
 | Level Order Traversal | Easy | `O(n)` | Recursion  | Python |  Recurseive pre order traversal call dfs on right and left nodes |
+| Construct Binary Tree | Medium | `O(n)` | Recursion & Binary Tree  | Python |  Recursivly create left and right subtrees by passing params |
