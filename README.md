@@ -12,7 +12,7 @@ A list of all the questions I've practiced so far may be seen here. The time com
 | Question Name | Difficulty | Time Complexity | Topic | Language | Main Idea |
 | ------------- | ---------- | --------------- | ----- | -------- | --------- |
 | Two Sum | Easy | `O(n)` | Hash Tables | Python, JavaScript | Use a hash table to store and compare values of an array. This leads to faster time complexity than using a double for loop.
-|  Power of Two | Easy | `O(log n)` or `O(n)` | Binary Operations | Python, JavaScript | Binary representation and operations can be used to locate a pattern in powers of two.
+|  Power of Two | Easy | `O(log n)` | Binary Operations | Python, JavaScript | Binary representation and operations can be used to locate a pattern in powers of two.
 | Merge Intervals | Medium| `O(n log n)` | Arrays | Python | Store the values of a 2d array in a single array and compare values, then store values needed in a new array.
 | Populating Next Right Pointers Each Node | Medium | `O(n)` | Nodes | Python | Breadth first search using a queue to store values, assign node values to each other using curr.left or curr.right.
 | Fib Memoization | Easy | `O(n)` | Binary Search Tree & HashMap | Python | We use a hash map to store and recall values that we already computed.
@@ -32,6 +32,7 @@ A list of all the questions I've practiced so far may be seen here. The time com
 | Maximum Sort | Easy | `O(nlogn)` | Array, Greedy | Python | Use sorted funtion with key lambda to sort from highest boxes to lowest boxes then use gready algo to find the max boxes |
 | Max Area | Medium | `O(nlogn)` | Array, Greedy | Python | Sort horizontal and vertical cuts then iterate through them and keep track of max diff |
 | Interleaving String | Medium | `O(n * m)` | DP | Python | Build dp matrix to calculate solution |
-| Matchsticks to Square | Medium | `O(n)` | DP & DFS | Python |  Build a dictionary for DP and find all possible ways to arrange matchsticks |
+| Matchsticks to Square | Medium | `O(n)` | DP, DFS | Python |  Build a dictionary for DP and find all possible ways to arrange matchsticks |
 | Level Order Traversal | Easy | `O(n)` | Recursion  | Python |  Recurseive pre order traversal call dfs on right and left nodes |
-| Construct Binary Tree | Medium | `O(n)` | Recursion & Binary Tree  | Python |  Recursivly create left and right subtrees by passing params |
+| Construct Binary Tree | Medium | `O(n)` | Recursion, DFS | Python |  Recursivly create left and right subtrees by passing params |
+| Invert Binary Tree | Easy | `O(n)` | Binary Tree, Recursion, DFS  | Python |  Swap left and right nodes, then use dfs to repeat the process |
