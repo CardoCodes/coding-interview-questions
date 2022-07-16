@@ -37,3 +37,4 @@ A list of all the questions I've practiced so far may be seen here. The time com
 | Construct Binary Tree | Medium | `O(n)` | Recursion, DFS | Python |  Recursivly create left and right subtrees by passing params |
 | Invert Binary Tree | Easy | `O(n)` | Binary Tree, Recursion, DFS  | Python |  Swap left and right nodes, then use dfs to repeat the process |
 | Max Area of Islands | Medium | `O(mn)` | DFS, Recursion, Matrix | Python | Use dfs on every node horizontal or veritical, set node to 0 if already visited so we do not recount. Increment count each time there is a another 1 attached to the node. |
+| Out of Bounds Paths | Medium | `O(n)` | DP, Recursion | Python | Use recursion to calculate the max out of bounds moves |
